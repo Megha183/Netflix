@@ -1,0 +1,17 @@
+.banner{
+    height:500px;
+    margin-top: 0;
+}
+.bannerContent{
+margin-left: 100px;
+padding-top: 250px;
+height: 200px;
+}
+.title{
+    font-size: xx-large;
+    padding-bottom: 20px;
+}
+
+.overview{
+    width: 800px;
+}
